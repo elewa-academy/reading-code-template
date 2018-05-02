@@ -32,7 +32,6 @@ _object name_: Object
 * [Behavior](#behavior)
   * [Input Analysis](#input-analysis)
   * [Test Cases](#test-cases)
-  * [Strategy](#strategy)
 * [Implementation](#implementation)
   * [Original Code](#original-code)
   * [Reconstruction](#reconstruction)
@@ -64,9 +63,6 @@ assert(1 == add(-2, 3));
 assert(-1 == add(2, -3));
 assert(-5 == add(-2, -3));
 ```
-### Strategy
-
-What strategy did they use to implement this behavior?
 
 
 [TOP](#index)
